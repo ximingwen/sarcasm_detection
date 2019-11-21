@@ -7,14 +7,14 @@ For report, please refer to the *report* folder.
 
 For scripts, please refer to thr *scripts* folder.
 
-## Team Members:
+## Team Members
 
 |Name|PID|Mail|
 |----|----|--------|
-|Jiaming Qu|730205251|jiaming@ad.unc.edu|
-|Ximing Wen|730347350||
-|Jiesong He|730264869||
-|Wang Zhang|730341932||
+|Jiaming Qu|730205251|jiaming AT ad DOT unc DOT edu|
+|Ximing Wen|730347350|ximing AT live DOT unc DOT edu|
+|Jiesong He|730264869|j DOT he AT unc DOT edu|
+|Wan Zhang|730341932|wanz63 AT live DOT unc DOT edu|
 
 Note that Jiaming Qu and  Ximing Wen contribute equally to the project.
 
