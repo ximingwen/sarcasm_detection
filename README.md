@@ -1,17 +1,17 @@
-# sarcasm_detection
+# COMP 562 Fall 2019 Project
+# Sarcasm Detection in Reddit Posts
 
-## COMP 562 Fall 2019 Project
 Team Members:
 Jiaming Qu, Ximing Wen (contribute equally to the project), Jiesong He, Wan Zhng
 
 ## Dataset
 
-Reddit posts sarcasm detection.
+We use a small part of the Reddit sarcasm posts dataset, which could be found here: https://www.kaggle.com/danofer/sarcasm
 
-Link:https://www.kaggle.com/danofer/sarcasm
+## Models
+Baseline: Unigram model with TF-IDF weighting + Logistic Regression
 
-We use a small part.
-
-## Model Comparison
-Baseline:
 CNN: 
+
+## Evaluation
+
